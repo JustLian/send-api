@@ -1,0 +1,14 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+docs/
+*.md
+/sender
+/bin/
+*.test
+*.out
+.DS_Store
+.idea/
+.vscode/
